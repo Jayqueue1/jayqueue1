@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import FirstComponent from './FirstComponent';
 import SecondComponent from './2ndComponent';
+import ThirdComponent from './3rdComponent';
 
 ReactDOM.render(
   <React.StrictMode>
