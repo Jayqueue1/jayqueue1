@@ -6,7 +6,7 @@ function ThirdComponent () {
         <h4>
         <p>This Is The Third Component With An Image</p>
         </h4>
-        <figure><img src="https://www.freevector.com/cricket-logo-30589"  alt="Picture"></img></figure>
+        <figure><img src="https://media.istockphoto.com/vectors/cricket-stadium-vector-wallpaper-vector-id936417006"  alt="Picture"></img></figure>
         </>
 
 

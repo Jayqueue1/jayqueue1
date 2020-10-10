@@ -2,6 +2,7 @@ import React from 'react';
 function SecondComponent (){
     return(
         <>
+         <h4>Second Component</h4> 
         <table style={{"width:styles.width":100}}>
   <tr>
     <th>Firstname</th>

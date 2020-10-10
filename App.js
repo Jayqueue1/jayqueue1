@@ -4,13 +4,26 @@ import './App.css';
 import FirstComponent from './FirstComponent';
 import SecondComponent from './2ndComponent';
 import ThirdComponent from './3rdComponent';
+import FourthComponent from './4thComponent';
+import FifthComponent from './5thComponent';
+import SixthComponent from './6thComponent';
+import SeventhComponent from './7thComponent';
+import EighthComponent from './8thComponent';
+
+ 
 function App() {
   return (
     <div>
+     
       <FirstComponent />
       <SecondComponent />
-      <ThirdComponent />
-         </div>
+            <FourthComponent />
+      <FifthComponent />
+       <SixthComponent />
+              <SeventhComponent />
+              <EighthComponent />
+              <ThirdComponent />
+    </div>
   );
 
   }
