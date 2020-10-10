@@ -12,7 +12,7 @@ import SixthComponent from './6thComponent';
 import SeventhComponent from './7thComponent';
 import EighthComponent from './8thComponent';
 import NinthComponent from './9thComponent';
-import TenthComponent from './10thComponnent';
+import TenthComponent from './TenthComponent';
 
 ReactDOM.render(
   <React.StrictMode>
