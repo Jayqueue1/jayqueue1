@@ -9,6 +9,8 @@ import FifthComponent from './5thComponent';
 import SixthComponent from './6thComponent';
 import SeventhComponent from './7thComponent';
 import EighthComponent from './8thComponent';
+import NinthComponent from './9thComponent';
+import TenthComponent from './10thComponent';
 
  
 function App() {
@@ -22,6 +24,8 @@ function App() {
        <SixthComponent />
               <SeventhComponent />
               <EighthComponent />
+              <NinthComponent />
+              <TenthComponent />
               <ThirdComponent />
     </div>
   );
